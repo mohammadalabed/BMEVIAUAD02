@@ -1,4 +1,4 @@
-# Data-driven systems new
+# Data-driven systems
 
 Lecture notes, seminar materials and homework exercises for course BMEVIAUAC01 Data-driven systems.
 
