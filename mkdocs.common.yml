@@ -1,6 +1,6 @@
-copyright: Copyright &copy; BME VIK AUTtttttttttt
-repo_name: bmeviauac01/datadriven
-repo_url: https://github.com/bmeviauac01/datadriven
+copyright: Copyright &copy; BME VIK AUT
+repo_name: mohammadalabed/BMEVIAUAD02
+repo_url: https://github.com/mohammadalabed/BMEVIAUAD02
 
 theme:
   name: material
@@ -39,7 +39,7 @@ extra_css:
 extra:
   alternate:  
     - name: English
-      link: https://bmeviauac01.github.io/datadriven/en/
+      link: https://mohammadalabed.github.io/BMEVIAUAD02/en/
       lang: en
 
 
@@ -67,8 +67,8 @@ markdown_extensions:
   - pymdownx.keys
 
 plugins:
-  #search: { } # https://squidfunk.github.io/mkdocs-material/insiders/getting-started/#built-in-plugins key-value syntax
-  #glightbox: { } # https://squidfunk.github.io/mkdocs-material/insiders/getting-started/#built-in-plugins key-value syntax
+  search: { } # https://squidfunk.github.io/mkdocs-material/insiders/getting-started/#built-in-plugins key-value syntax
+  glightbox: { } # https://squidfunk.github.io/mkdocs-material/insiders/getting-started/#built-in-plugins key-value syntax
   git-revision-date-localized:
     # override from docker environment variables
     # not a vanilla yaml syntax, only works with mkdocs.yaml because of pyyaml_env_tag
