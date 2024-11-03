@@ -1,6 +1,6 @@
 copyright: Copyright &copy; BME VIK AUT
-repo_name: mohammadalabed/BMEVIAUAD02
-repo_url: https://github.com/mohammadalabed/BMEVIAUAD02
+repo_name: bmeviauac01/datadriven
+repo_url: https://github.com/bmeviauac01/datadriven
 
 theme:
   name: material
@@ -39,9 +39,11 @@ extra_css:
 extra:
   alternate:  
     - name: English
-      link: https://mohammadalabed.github.io/BMEVIAUAD02/en/
+      link: https://bmeviauac01.github.io/datadriven/en/
       lang: en
-
+    - name: Magyar
+      link: https://bmeviauac01.github.io/datadriven/hu/
+      lang: hu
 
 markdown_extensions:
   - admonition

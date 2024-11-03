@@ -1,8 +1,8 @@
 INHERIT: mkdocs.common.yml
 
 site_author: István Albert, Tibor Tóth
-site_name: BMEVIAUAC01 Data-driven systemsswww
-site_url: https://mohammadalabed.github.io/BMEVIAUAD02/en/
+site_name: BMEVIAUAC01 Data-driven systems
+site_url: https://bmeviauac01.github.io/datadriven/en/
 docs_dir: 'docs/en'
 site_dir: 'site/en'
 edit_uri: 'blob/master/docs/hu'
@@ -20,7 +20,7 @@ plugins:
 
 nav:
   - index.md
-  - "Database2":
+  - "Database":
       - db/index.md
       - db/mssql.md
       - db/mongodb.md

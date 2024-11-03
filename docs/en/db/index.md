@@ -1,4 +1,4 @@
-# Sample database scheme 2
+# Sample database scheme
 
 The examples and seminars during the semester will use a sample database. The database is a simplified retail management system with products, customers, and orders. This description details the relational schema of the database; the MongoDB variant is the appropriate mirror of this scheme.
 
